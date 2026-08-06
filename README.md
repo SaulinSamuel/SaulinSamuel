@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! 👋 Eu sou Saulo Samuel
+# Olá!  Eu sou Saulo Samuel
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Spring+Boot+%7C+Spring+Security;Docker+%7C+MySQL;Sempre+aprendendo+algo+novo..." />
 
