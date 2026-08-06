@@ -43,9 +43,9 @@ Sempre buscando aprender novas tecnologias e escrever códigos mais limpos, esca
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaulinSamuel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SaulinSamuel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinSamuel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinSamuel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
