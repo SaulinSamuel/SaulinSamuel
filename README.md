@@ -68,14 +68,6 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e constru
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaulinSamuel&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
 ---
 
 ## 📈 Gráfico de atividade
