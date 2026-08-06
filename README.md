@@ -39,14 +39,18 @@ Sempre buscando aprender novas tecnologias e escrever códigos mais limpos, esca
 
 ---
 
-#  Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaulinSamuel&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SaulinSamuel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinSamuel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaulinSamuel&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 ---
