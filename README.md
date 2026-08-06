@@ -1,64 +1,57 @@
 <div align="center">
 
-# Olá!  Eu sou Saulo Samuel
+# Olá! Eu sou Saulo Samuel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Java;Spring+Boot+%7C+Spring+Security;Docker+%7C+MySQL;Sempre+aprendendo+algo+novo..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Construindo+APIs+REST;Docker+%7C+MySQL+%7C+JWT;Sempre+aprendendo+algo+novo..." />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# Sobre mim
 
-💚 Desenvolvedor Backend Java
+Desenvolvedor Backend apaixonado por criar APIs utilizando Java e Spring Boot.
 
-🚀 Atualmente estudando e desenvolvendo projetos com:
+Atualmente estudo e desenvolvo projetos focados em:
 
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- JPA / Hibernate
-- MySQL
-- Docker
-- Git e GitHub
-- APIs REST
+- ☕ Java
+- 🍃 Spring Boot
+- 🔒 Spring Security
+- 🔑 JWT
+- 🗄️ MySQL
+- 🐳 Docker
+- 📦 JPA/Hibernate
+- 🔗 APIs REST
+- 🧪 JUnit
+- 🐙 Git/GitHub
 
-🎯 Objetivo:
-
-Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e construir sistemas escaláveis e bem estruturados.
+Sempre buscando aprender novas tecnologias e escrever códigos mais limpos, escaláveis e bem estruturados.
 
 ---
 
-## 🛠️ Tecnologias
+#  Tecnologias
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,linux,postman" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+#  Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulinSamuel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaulinSamuel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinSamuel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulinSamuel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de commits
+#  Sequência de commits
 
 <div align="center">
 
@@ -68,9 +61,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e constru
 
 ---
 
----
-
-## 📈 Gráfico de atividade
+#  Atividade
 
 <div align="center">
 
@@ -80,40 +71,63 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e constru
 
 ---
 
-## 💼 Principais áreas
+#  Conquistas
 
-✔️ Desenvolvimento de APIs REST
+<div align="center">
 
-✔️ Autenticação com JWT
+<img src="https://github-profile-trophy.vercel.app/?username=SaulinSamuel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-✔️ Spring Security
-
-✔️ Banco de Dados Relacional
-
-✔️ Docker
-
-✔️ Arquitetura em Camadas
-
-✔️ Boas práticas de código
+</div>
 
 ---
 
-## 📫 Contato
+#  Projetos em destaque
+
+### 🏋️ Academia API
+
+Sistema completo para gerenciamento de academias desenvolvido com:
+
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- Docker
+- MySQL
+
+---
+
+### 🛒 Markets API
+
+API REST para gerenciamento de produtos, pedidos e usuários.
+
+---
+
+#  Contato
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/saulo-samuel-14a1b7411/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:saulosamuellealtorres4@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 👀 Visitantes
+<img src="https://komarev.com/ghpvc/?username=SaulinSamuel&style=for-the-badge&color=22C55E"/>
 
-<img src="https://komarev.com/ghpvc/?username=SaulinSamuel&color=00C853&style=for-the-badge"/>
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Obrigado pela visita!
 
 </div>
