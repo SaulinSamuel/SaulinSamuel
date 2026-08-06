@@ -100,7 +100,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Backend Java e constru
 
 ## 📫 Contato
 
-<a href="https://www.linkedin.com/in/saulo-samuel-">
+<a href="https://www.linkedin.com/in/saulo-samuel-14a1b7411/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
