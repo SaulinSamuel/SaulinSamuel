@@ -77,11 +77,7 @@ Sempre buscando aprender novas tecnologias e escrever códigos mais limpos, esca
 
 # Conquistas
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SaulinSamuel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaulinSamuel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
 
 ---
 
