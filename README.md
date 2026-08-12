@@ -75,12 +75,6 @@ Sempre buscando aprender novas tecnologias e escrever códigos mais limpos, esca
 
 ---
 
-# Conquistas
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaulinSamuel&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)
-
----
-
 #  Projetos em destaque
 
 ### 🏋️ Academia API
