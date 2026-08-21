@@ -2,7 +2,7 @@
 
 # Olá! Eu sou Saulo Samuel
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+Java;Especialista+em+Spring+Boot;Construindo+APIs+REST;Docker+%7C+MySQL+%7C+JWT;Sempre+aprendendo+algo+novo..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+Java;SpringFramework+%7C+SpringBoot+%7C+JPA/HIBERNATE;Construindo+APIs+REST;Docker+%7C+MySQL+%7C+JWT;Git/Github+%7C+RabbitMQ+%7C+CI/CD;Sempre+aprendendo+algo+novo..." />
 
 </div>
 
