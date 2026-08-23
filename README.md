@@ -10,7 +10,7 @@
 
 # Sobre mim
 
-Desenvolvedor Backend apaixonado construindo APIs utilizando Java e Spring Boot.
+Desenvolvedor Backend construindo APIs utilizando Java e Spring Boot.
 
 Atualmente estudo e desenvolvo projetos focados em:
 
