@@ -23,7 +23,6 @@ Atualmente meu principal projeto é o **API Academia**, um sistema de gestão de
 - Trabalhando atualmente em: **API Academia** (gestão de academias)
 - Estudando agora: **RabbitMQ**, **Redis** e **Observabilidade** (logs, métricas e tracing)
 - Pergunte-me sobre: **Spring Boot, Spring Security, JWT, JPA/Hibernate, Docker, Testes automatizados**
-- Fun fact: aprendi Docker e WSL2 do zero enquanto containerizava meus próprios projetos
 
 ---
 
